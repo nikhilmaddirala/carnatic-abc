@@ -15,6 +15,7 @@ Tools for working with Carnatic music in ABC notation.
     - `songs/song_name/output/notes-lyrics.abc`
 
 ## Future roadmap
+- Implement main.py with pytest framework
 - Convert abc to musicxml / musescore notation
 - Create web app to visualize and play the musicxml
 - Automatic transcription of cabc from source PDF
